@@ -112,12 +112,10 @@ For Transient Analysis Settings and Output
 
 
 
+![Screenshot (29)](https://github.com/user-attachments/assets/395ab044-f906-43a8-84b6-958beddd8063)
 
 
 
-
-
- 
 
 Results:
 
